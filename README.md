@@ -1,6 +1,6 @@
-# InteractCX - AI Chatbot Assistant
+# AI Chatbot Assistant
 
-InteractCX is a modern, real-time AI chatbot application built with Laravel 13, Google Dialogflow, and Laravel Reverb (WebSockets). It features a premium, responsive UI and persistent chat history.
+It is a modern, real-time AI chatbot application built with Laravel 13, Google Dialogflow, and Laravel Reverb (WebSockets). It features a premium, responsive UI and persistent chat history.
 
 ## Features
 - **AI-Powered**: Integrates with Google Dialogflow for natural language understanding.
